@@ -1,0 +1,11 @@
+{
+  "name": "gl-experiments",
+  "version": "0.0.1",
+  "description": "visual stuff and all that jazz ",
+  "main": "index.js",
+  "author": "cd10012 <ced361@nyu.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.97.0"
+  }
+}
